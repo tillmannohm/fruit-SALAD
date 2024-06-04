@@ -3,9 +3,22 @@
 **fruit-SALAD** is a synthetic image dataset with 10,000 generated images of fruit depictions. This combined semantic category and style benchmark comprises 100 instances each of 10 easily recognizable fruit categories and 10 easy distinguishable styles. 
 
 ### Dataset
-You can access the complete fruit-SALAD_10k dataset at [https://doi.org/10.5281/zenodo.11158522](https://doi.org/10.5281/zenodo.11158522).
+You can access the complete fruit-SALAD_10k dataset at [Zenodo](https://doi.org/10.5281/zenodo.11158522).
 ```
 Ohm, T. (2024). fruit-SALAD [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11158522
+```
+
+### Cite
+See our preprint on [ArXiv](https://arxiv.org/abs/2406.01278).
+```
+@misc{ohm2024fruitsalad,
+      title={fruit-SALAD: A Style Aligned Artwork Dataset to reveal similarity perception in image embeddings}, 
+      author={Tillmann Ohm and Andres Karjus and Mikhail Tamm and Maximilian Schich},
+      year={2024},
+      eprint={2406.01278},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ### Code
