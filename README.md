@@ -1,4 +1,5 @@
 # fruit-SALAD
+This repository contains the code to reproduce the fruit-SALAD dataset. Please see the jupyter notebook [fruit-SALAD_pipeline.ipynb](fruit-SALAD_pipeline.ipynb) for more details.    
 
 **fruit-SALAD** is a synthetic image dataset with 10,000 generated images of fruit depictions. This combined semantic category and style benchmark comprises 100 instances each of 10 easily recognizable fruit categories and 10 easy distinguishable styles. 
 
@@ -20,9 +21,6 @@ See our preprint on [ArXiv](https://arxiv.org/abs/2406.01278).
       primaryClass={cs.CV}
 }
 ```
-
-### Code
-This repository contains the code to reproduce the fruit-SALAD dataset. Please see the jupyter notebook [fruit-SALAD_pipeline.ipynb](fruit-SALAD_pipeline.ipynb) for more details.
 
 ### About
 The carefully designed Style Aligned Artwork Dataset (SALAD) provides a controlled and balanced platform for the comparative analysis of similarity perception of different computational models. The SALAD framework allows the comparison of how these models perform semantic category and style recognition tasks, going beyond the level of anecdotal knowledge, making them robustly quantifiable and qualitatively interpretable.
