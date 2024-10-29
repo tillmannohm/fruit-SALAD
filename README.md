@@ -1,5 +1,5 @@
 # fruit-SALAD
-![SALAD_pipeline](SALAD-pipeline.png)
+![SALAD_pipeline](SALAD_pipeline.png)
 
 **fruit-SALAD** is a synthetic image dataset with 10,000 generated images of fruit depictions. This combined semantic category and style benchmark comprises 100 instances each of 10 easily recognizable fruit categories and 10 easy distinguishable styles. 
 
